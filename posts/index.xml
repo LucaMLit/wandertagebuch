@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wandertagebuch</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Wandertagebuch</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2025 14:14:25 +0200</lastBuildDate>
+    <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zelten in Dänemark</title>
+      <link>https://example.com/posts/zelten-in-daenemark/</link>
+      <pubDate>Tue, 07 Oct 2025 14:14:25 +0200</pubDate>
+      <guid>https://example.com/posts/zelten-in-daenemark/</guid>
+      <description>&lt;p&gt;Vom 23.8. bis 25.8. bin ich mit dem Zug nach Dänemark gefahren. Es war nicht ganz geplant, wohin, aber hat sich so ergeben. Mitgenommen habe ich mein MSR Elixir 2 Zelt, Isomatte, Schlafsack, Gaskocher, Campingkochsachen und ein paar Klamotten.&lt;/p&gt;&#xA;&lt;p&gt;#Tag 1&#xA;Die &lt;strong&gt;Anreise nach Dänemark&lt;/strong&gt; habe ich komplett mit dem Deutschlandticket gemacht. Von Hildesheim aus bin ich zuerst mit dem RE10 nach Hannover gefahren und von dort mit dem Metronom nach Hamburg. In Hamburg bin ich dann in einen weiteren Regionalzug nach Flensburg gefahren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://example.com/posts/hello-world/</link>
+      <pubDate>Mon, 06 Oct 2025 17:25:25 +0200</pubDate>
+      <guid>https://example.com/posts/hello-world/</guid>
+      <description>&lt;p&gt;Das ist mein erster richtiger Blog. Ich weiß nicht genau, warum ich das mache, aber ich will mal sehen, wohin es führt. Naja eigentlich ist es mein zweiter richtiger Blog, aber der erste, den ich  wirklich selbst erstellt und gehostet habe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wozu-ist-dieser-blog-da&#34;&gt;Wozu ist dieser Blog da?&lt;/h2&gt; &lt;p&gt;In meinem Blog möchte ich vor allem von Wanderungen berichten, vielleicht auch von ein paar Reisen, ein paar Fotos teilen und mir beibringen, wie man mit Hugo, Markdown und Github Pages eine Website erstellt und bearbeitet usw. Das ist also zur Hälfte ein sinnvolles Projekt und zur Hälfte ein öffentlicher Testlauf.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
