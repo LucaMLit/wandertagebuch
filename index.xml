@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willkommen auf meinem Blog on Wandertagebuch</title>
-    <link>https://example.com/</link>
+    <link>https://lucamlit.github.io/wandertagebuch/</link>
     <description>Recent content in Willkommen auf meinem Blog on Wandertagebuch</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Oct 2025 14:14:25 +0200</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucamlit.github.io/wandertagebuch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zelten in Dänemark</title>
-      <link>https://example.com/posts/zelten-in-daenemark/</link>
+      <link>https://lucamlit.github.io/wandertagebuch/posts/zelten-in-daenemark/</link>
       <pubDate>Tue, 07 Oct 2025 14:14:25 +0200</pubDate>
-      <guid>https://example.com/posts/zelten-in-daenemark/</guid>
+      <guid>https://lucamlit.github.io/wandertagebuch/posts/zelten-in-daenemark/</guid>
       <description>&lt;p&gt;Vom 23.8. bis 25.8. bin ich mit dem Zug nach Dänemark gefahren. Es war nicht ganz geplant, wohin, aber hat sich so ergeben. Mitgenommen habe ich mein MSR Elixir 2 Zelt, Isomatte, Schlafsack, Gaskocher, Campingkochsachen und ein paar Klamotten.&lt;/p&gt;&#xA;&lt;p&gt;#Tag 1&#xA;Die &lt;strong&gt;Anreise nach Dänemark&lt;/strong&gt; habe ich komplett mit dem Deutschlandticket gemacht. Von Hildesheim aus bin ich zuerst mit dem RE10 nach Hannover gefahren und von dort mit dem Metronom nach Hamburg. In Hamburg bin ich dann in einen weiteren Regionalzug nach Flensburg gefahren.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://example.com/posts/hello-world/</link>
+      <link>https://lucamlit.github.io/wandertagebuch/posts/hello-world/</link>
       <pubDate>Mon, 06 Oct 2025 17:25:25 +0200</pubDate>
-      <guid>https://example.com/posts/hello-world/</guid>
+      <guid>https://lucamlit.github.io/wandertagebuch/posts/hello-world/</guid>
       <description>&lt;p&gt;Das ist mein erster richtiger Blog. Ich weiß nicht genau, warum ich das mache, aber ich will mal sehen, wohin es führt. Naja eigentlich ist es mein zweiter richtiger Blog, aber der erste, den ich  wirklich selbst erstellt und gehostet habe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wozu-ist-dieser-blog-da&#34;&gt;Wozu ist dieser Blog da?&lt;/h2&gt; &lt;p&gt;In meinem Blog möchte ich vor allem von Wanderungen berichten, vielleicht auch von ein paar Reisen, ein paar Fotos teilen und mir beibringen, wie man mit Hugo, Markdown und Github Pages eine Website erstellt und bearbeitet usw. Das ist also zur Hälfte ein sinnvolles Projekt und zur Hälfte ein öffentlicher Testlauf.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hallo, das hier ist Lucas Wandertagebuch.</title>
-      <link>https://example.com/about/</link>
+      <link>https://lucamlit.github.io/wandertagebuch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
-      <description>&lt;p&gt;Ich bin Luca. Eins meiner Hobbys ist Wandern. Ich möchte andere Menschen begeistern, ebenfalls raus in die Natur zu gehen. Ich hoffe, ich kann euch hier ein paar schöne Berichte und Fotos von meinen früheren und aktuellen Abenteuern zeigen.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://example.com/images/daenemark.jpg&#34;&#xA;    alt=&#34;Mein Foto&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Das bin ich beim Wandern in Dänemark.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://lucamlit.github.io/wandertagebuch/about/</guid>
+      <description>&lt;p&gt;Ich bin Luca. Eins meiner Hobbys ist Wandern. Ich möchte andere Menschen begeistern, ebenfalls raus in die Natur zu gehen. Ich hoffe, ich kann euch hier ein paar schöne Berichte und Fotos von meinen früheren und aktuellen Abenteuern zeigen.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://lucamlit.github.io/wandertagebuch/images/daenemark.jpg&#34;&#xA;    alt=&#34;Mein Foto&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Das bin ich beim Wandern in Dänemark.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
